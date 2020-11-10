@@ -1,0 +1,291 @@
+@media(min-width:768px) and (max-width:991px){
+    
+    
+.nav-link::after{
+    position: absolute;
+    content: '';
+    height: 2px; 
+    width:100%;
+    bottom: 0px;
+    left: 0;
+    opacity:0;
+    background: #6FDA44;
+    
+}
+.borders{
+        border: none;
+}
+    
+.position_navber nav .navbar-nav .nav-item .nav-link{
+        line-height: 45px;
+        text-align:left;
+        margin-left:10px;
+}
+    
+    
+.position_navber nav .navbar-nav .nav-item{
+       display: inline-block;
+ 
+} 
+.position_navber nav .navbar-nav{
+        padding:10px 50px;
+        display:inline-block;
+        float: left;
+        
+     
+}
+    
+.text_banner h2{
+        padding-top: 130px;
+ }
+    
+.text_banner p{
+        padding: 5px 90px;
+}
+    
+.about_heading h3{ 
+        padding-top: 15px;
+}
+.about_heading p{
+        padding: 5px 50px;
+}
+    
+    
+.about_top p{
+    font-size:13px;
+    line-height: 25px;
+    padding: 1px 0px;
+
+}
+    
+.about_bootom p{
+    font-size:13px;
+    line-height: 25px;
+    padding: 1px 0px;
+
+}
+.about_top::after{
+        z-index: -1;
+}
+.about_left::after{
+        z-index: -1;
+ }
+    
+.about_right p {
+    font-size: 13px;
+    line-height: 24px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 10px;
+
+}
+.about_right::after{
+        z-index: -1;
+}
+.about_left{
+        top: 0px;
+}
+    
+.about_right{
+        top: 0px;
+}
+
+.about_left p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #444;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+    padding-top: 0px;
+    padding-right: 8px;
+
+}
+.cicle_main {
+    height: 210px;
+    
+}
+.ovelay{
+        height: 53%;
+    
+}
+    
+    
+.portfolio_heding p{
+      padding: 0px 50px;
+      padding-bottom: 12px;
+    
+}
+    
+.positionss{
+        height: 30px;
+        width: 30px;
+}
+    
+    
+.venobox i{
+        font-size: 15px;
+        line-height: 30px;
+}
+    
+    
+.sevice_heding p {
+    padding: 0px 50px;
+    padding-bottom: 40px;
+
+}
+    
+.develop_text p {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-right: 25px;
+ 
+}
+.develop_img{
+        left: 21%;
+    }
+    
+.develop_heder h3 {
+    font-size: 16px;
+    padding: 10px;
+    left: 39%;
+    }
+    
+    
+.web_text p {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-left: 25px;
+
+}
+.poto_heder h3 {
+    font-size: 16px;
+    padding: 50px;
+    right: -39%;
+}
+.graphc_heder h3 {
+    font-size: 16px;
+    padding: 0px;
+    left: 39%;
+
+}
+    
+    
+.web_heder h3 {
+    font-size: 16px;
+    right: -36%;
+}
+
+    
+.slick-slide.img_one{
+    transform: scale(.7);
+  
+}
+
+.slick-center.img_one{
+    transform: scale(.8);
+
+}
+
+.positon_one::after{
+    height:88%;
+    width: 1px;
+    left:55%;
+    top:6%;
+    z-index: 1;
+   
+
+}
+    
+.arrow_ups{
+    left: 38%;
+    top: -1%;
+     
+}
+.arrow_downs{
+        left: 38%;
+}
+    
+    
+.silver_text::after{
+   top:54px;
+  
+}
+
+.platinam_text::after{
+   top:54px;
+  
+}
+
+   .golden_text::after{
+   top:54px;
+  
+}
+
+.team_heding p {
+    padding: 0px 50px;
+    padding-bottom: 15px;
+
+}  
+    
+.pricing_heading p {
+    padding-bottom: 15px;
+    padding-top: 10px;
+
+}
+    
+.team_one_common .team_social i {
+
+    font-size: 13px;
+    color: #444;
+    display: inline-block;
+    line-height:25px;
+    border: 1px solid #444;
+    width: 25px;
+    height:25px;
+    border-radius: 50%;
+    margin: 3px 2px;
+
+}
+.common_overlay i {
+    height: 35px;
+    width: 35px;
+    font-size:14px;
+    line-height:32px;
+}
+
+.common_overlay {
+    height: 66%;
+    top:0%;    
+    bottom:0%;
+   
+}
+    
+.team_one_common:hover .common_overlay{
+    bottom:0%; 
+    transition: all linear .4s;
+    -webkit-transition: all linear .4s;
+    opacity: 1;  
+}
+
+.footer_text_icon .pas {
+    font-size: 13px;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px !important;
+
+}
+    .social_item{
+        text-align: center;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
